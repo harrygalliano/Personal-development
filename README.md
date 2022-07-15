@@ -15,3 +15,4 @@ These resources will be used to divide up the work into different respective dir
 - [JS Mozilla docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Medium](https://medium.com/)
 - [Small dev tools](https://smalldev.tools/)
+- [You don't know JS yet books](https://github.com/getify/You-Dont-Know-JS)
